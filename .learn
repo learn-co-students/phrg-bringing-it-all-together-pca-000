@@ -7,3 +7,5 @@ languages:
   - ruby
 resources: 
   - 1
+
+parent_template: git@github.com:learn-co-curriculum/bringing-it-all-together.git
