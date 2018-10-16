@@ -81,5 +81,8 @@ This method will drop the dogs table from the database.
   In the first test we create an instance, specify, since it has never been saved before, that the instance will receive a method call to `insert`.
 
   In the next test, we create an instance, save it, change its name, and then specify that a call to the save method should trigger an `update`.
+  
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-bringing-it-all-together/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-bringing-it-all-together/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Basic Dog ORM</p>
